@@ -52,7 +52,7 @@
 .banner-photo {
     width: 535px;
     height: 670px;
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
 }
 
 
